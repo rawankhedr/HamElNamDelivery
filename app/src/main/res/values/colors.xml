@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primary">#2C3E50</color>
+    <color name="primary_dark">#1F313D</color>
+    <color name="primary_light">#4A6572</color>
+    <color name="secondary">#BDC3C7</color>
+    <color name="secondary_dark">#A2A9AD</color>
+    <color name="secondary_light">#ECF0F1</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="accent">#1F313D</color>
+    <color name="background">#F4F6F8</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#7F8C8D</color>
+    <color name="error">#C0392B</color>
+    <color name="success">#27AE60</color>
+    <color name="buyer_badge">#4A6572</color>
+    <color name="seller_badge">#9B59B6</color>
+    <color name="primary_new">@color/primary</color>
+    <color name="primary_dark_new">@color/primary_dark</color>
+    <color name="accent_new">@color/accent</color>
+
+    <color name="text_primary_new">@color/text_primary</color>
+    <color name="text_secondary_new">@color/text_secondary</color>
+
+    <color name="background_light">@color/background</color>
+    <color name="white_new">@color/white</color>
+
+    <color name="buyer_badge_new">@color/buyer_badge</color>
+    <color name="seller_badge_new">@color/seller_badge</color>
+
+</resources>

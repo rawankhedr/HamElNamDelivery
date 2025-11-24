@@ -1,0 +1,18 @@
+{
+  "UserAgent": "aws-amplify-cli/1.0",
+  "Version": "1.0",
+  "CredentialsProvider": {
+    "CognitoIdentity": {
+      "Default": {
+        "PoolId": "YOUR-COGNITO-IDENTITY-POOL-ID",
+        "Region": "YOUR-AWS-REGION"
+      }
+    }
+  },
+  "S3TransferUtility": {
+    "Default": {
+      "Bucket": "YOUR-S3-BUCKET-NAME",
+      "Region": "YOUR-S3-BUCKET-REGION"
+    }
+  }
+}

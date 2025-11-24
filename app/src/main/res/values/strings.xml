@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">HamElNam Delivery</string>
+    <string name="app_name_delivery">HamElNam Delivery</string>
+
+    <!-- Login Screen -->
+    <string name="delivery_icon">Delivery Icon</string>
+    <string name="delivery_login">DELIVERY LOGIN</string>
+    <string name="delivery_subtitle">Sign in to start delivering</string>
+    <string name="sign_in_delivery">Sign In as Delivery Person</string>
+    <string name="register_delivery">Don\'t have an account? Register as Delivery Person</string>
+
+    <!-- Email and Password -->
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+
+    <!-- Register Screen -->
+    <string name="register_title">Create Account</string>
+    <string name="register_subtitle">Sign up to get started</string>
+    <string name="name_hint">Full Name</string>
+    <string name="phone_hint">Phone Number</string>
+    <string name="confirm_password_hint">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="already_have_account">Already have an account? Sign In</string>
+
+    <!-- Profile Screen -->
+    <string name="my_profile">My Profile</string>
+    <string name="email_label">Email</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="save">Save</string>
+    <string name="logout">Logout</string>
+
+    <!-- Validation Messages -->
+    <string name="error_invalid_email">Invalid email address</string>
+    <string name="error_invalid_password">Password must be at least 6 characters</string>
+    <string name="error_invalid_name">Name must be at least 2 characters</string>
+    <string name="error_invalid_phone">Invalid phone number</string>
+    <string name="error_passwords_not_match">Passwords do not match</string>
+
+    <!-- Success Messages -->
+    <string name="login_success">Login successful!</string>
+    <string name="registration_success">Registration successful!</string>
+    <string name="profile_updated">Profile updated successfully!</string>
+
+    <!-- Error Messages -->
+    <string name="error_login_failed">Login failed</string>
+    <string name="error_registration_failed">Registration failed</string>
+    <string name="error_profile_save_failed">Failed to save profile</string>
+    <string name="error_profile_update_failed">Failed to update profile</string>
+    <string name="error_user_not_authenticated">User not authenticated</string>
+</resources>
