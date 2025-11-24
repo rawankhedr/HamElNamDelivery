@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name">HamElNam Delivery</string>
-    <string name="app_name_delivery">HamElNam Delivery</string>
+    <string name="app_name">HamDelivery</string>
+    <string name="app_name_delivery">HamDelivery</string>
 
     <!-- Login Screen -->
     <string name="delivery_icon">Delivery Icon</string>
